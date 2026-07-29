@@ -42,10 +42,9 @@ portfolio/
 
 ## Connect With Me
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://www.linkedin.com/in/yourusername/
-* Kaggle: https://www.kaggle.com/yourusername
-
+* GitHub:https://github.com/jostina
+* LinkedIn:https://www.linkedin.com/in/jostinandavi/
+* Kaggle:https://www.credly.com/users/jostina-ndavi
 ## Future Improvements
 
 * Dark mode
